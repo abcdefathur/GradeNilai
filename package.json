@@ -1,0 +1,16 @@
+{
+  "name": "grade-nilai-tersting-js",
+  "version": "1.0.0",
+  "description": "Menghitung Grade Nilai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fathur",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
